@@ -2,6 +2,8 @@
 <h1 align="center">Iae 👋, eu sou o Victor Medeiros</h1>
 <h3 align="center">Primeiro projeto concluido, vamos pra cima</h3>
 
+<h5 align="center">Esse primeiro projeto é um exercício de casa passado pela Cubos Academy para utilizar as novas ferramentas</h5>
+
 <h3 align="left">Me chama lá:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/victor-medeiros-508400169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/victor-medeiros-508400169/" height="30" width="40" /></a>
